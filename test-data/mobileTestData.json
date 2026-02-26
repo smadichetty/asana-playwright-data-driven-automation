@@ -1,0 +1,30 @@
+{
+  "baseURL": "https://animated-gingersnap-8cf7f2.netlify.app/",
+  "credentials": {
+    "username": "admin",
+    "password": "password123"
+  },
+  "testCases": [
+    {
+      "testName": "Test Case 4 - Verify Push Notification System in To Do",
+      "projectName": "Mobile Application",
+      "columnName": "To Do",
+      "taskName": "Push notification system",
+      "tags": ["Feature"]
+    },
+    {
+      "testName": "Test Case 5 - Verify Offline Mode in Progress",
+      "projectName": "Mobile Application",
+      "columnName": "In Progress",
+      "taskName": "Offline mode",
+      "tags": ["Feature", "High Priority"]
+    },
+    {
+      "testName": "Test Case 6 - Verify App Icon Design in Done",
+      "projectName": "Mobile Application",
+      "columnName": "Done",
+      "taskName": "App icon design",
+      "tags": ["Design"]
+    }
+  ]
+}

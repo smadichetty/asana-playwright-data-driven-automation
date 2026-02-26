@@ -1,0 +1,16 @@
+{
+  "name": "asana-playwright-data-driven-automation",
+  "version": "1.0.0",
+  "description": "Data-driven Playwright automation suite for Asana demo application",
+  "scripts": {
+    "test": "npx playwright test --reporter=html",
+    "test:headed": "npx playwright test --headed --reporter=html",
+    "report": "npx playwright show-report"
+  },
+  "keywords": ["playwright", "automation", "data-driven", "testing"],
+  "author": "Soumya Madichetty",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}

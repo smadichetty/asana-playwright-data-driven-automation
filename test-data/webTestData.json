@@ -1,0 +1,30 @@
+{
+  "baseURL": "https://animated-gingersnap-8cf7f2.netlify.app/",
+  "credentials": {
+    "username": "admin",
+    "password": "password123"
+  },
+  "testCases": [
+    {
+      "testName": "Test Case 1 - Verify Implement User Authentication",
+      "projectName": "Web Application",
+      "columnName": "To Do",
+      "taskName": "Implement user authentication",
+      "tags": ["Feature", "High Priority"]
+    },
+    {
+      "testName": "Test Case 2 - Verify Fix Navigation Bug in To Do",
+      "projectName": "Web Application",
+      "columnName": "To Do",
+      "taskName": "Fix navigation bug",
+      "tags": []
+    },
+    {
+      "testName": "Test Case 3 - Verify Design System Updates in In Progress",
+      "projectName": "Web Application",
+      "columnName": "In Progress",
+      "taskName": "Design system updates",
+      "tags": ["Design"]
+    }
+  ]
+}
